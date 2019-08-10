@@ -1,0 +1,22 @@
+.bg-img{
+    /* background-image: url("assets/images/header.jpg"); */
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+.container{
+    position:absolute;
+    margin: 20px;
+    width: auto;
+}
+.topnav a {
+    float: left;
+    color: azure;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 17px;
+}
+.topnav a:hover{
+    background-color: beige;
+    color: black
+}
